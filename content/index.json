@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1410474",
+      "title": "Jeewan Hospital",
+      "description": "150, Bharath Nagar Road Jeewan Nagar, Gate Number 1, Maharani Bagh, New Delhi, Delhi 110014",
+      "coverImage": "/download.jpg"
+    },
+    {
+      "id": "1331625",
+      "title": "SDMC Lajpat Nagar Colony Hospital",
+      "description": "Veer Savarkar Marg, Block L, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024",
+      "coverImage": "/images (1).jpg"
+    },
+    {
+      "id": "1112431",
+      "title": "Makkar Multispeciality Hospital",
+      "description": " A 1,2 पत्पर्गंज मार्ग Near Priyadarshini Vihar Metroplex East Mall, Mohan Park, Laxmi Nagar, Delhi, 110092",
+      "coverImage": "/images.jpg"
+    },
+    {
+      "id": "985237",
+      "title": "Lok Nayak Hospital",
+      "description": "metro Station Central, Jawaharlal Nehru Marg, near Delhi Gate, New Delhi, Delhi 110002",
+      "coverImage": "/hospital-building-modern-parking-lot-59693686.jpg"
+    }
+]

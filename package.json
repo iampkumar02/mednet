@@ -1,0 +1,29 @@
+{
+  "name": "ehr",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next-scripts --openssl-legacy-provider start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "@truffle/hdwallet-provider": "^2.0.14",
+    "antd": "^4.23.2",
+    "next": "12.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "truffle": "^5.5.30",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.8.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.10",
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.0",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
+}
